@@ -1,0 +1,12 @@
+# Ignore Terraform files
+.terraform/
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore Kubernetes configuration files
+*.yaml
+
+# Ignore sensitive files
+.env
