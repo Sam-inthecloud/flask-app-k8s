@@ -2,6 +2,8 @@
 
 ## Overview
 This project demonstrates the deployment of a Flask application on Amazon Elastic Kubernetes Service (EKS) using Docker containers. The application is containerized using Docker, deployed on Kubernetes, and hosted on AWS EKS. This README provides an overview of the project, including the technologies used, the deployment process, troubleshooting steps, and instructions for reproducing the setup.
+
+[Blog Page](https://medium.com/@saminthecloud1/devops-deploying-and-troubleshooting-a-flask-application-on-aws-eks-fe962b963cb6)
 ## Architecture
 ![Architecture](https://github.com/Sam-inthecloud/flask-app-k8s/blob/main/flask-app.png)
 ## Technologies Used
