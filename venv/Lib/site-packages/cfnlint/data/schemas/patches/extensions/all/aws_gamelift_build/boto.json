@@ -1,7 +1,0 @@
-[
- {
-  "op": "add",
-  "path": "/properties/ServerSdkVersion/pattern",
-  "value": "^\\d+\\.\\d+\\.\\d+$"
- }
-]
