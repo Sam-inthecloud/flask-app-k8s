@@ -1,7 +1,0 @@
-[
- {
-  "op": "add",
-  "path": "/definitions/Tag/properties/Key/pattern",
-  "value": "^(?!aws:).+"
- }
-]

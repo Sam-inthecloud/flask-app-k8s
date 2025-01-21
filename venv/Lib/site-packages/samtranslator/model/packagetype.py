@@ -1,2 +1,0 @@
-IMAGE = "Image"
-ZIP = "Zip"
