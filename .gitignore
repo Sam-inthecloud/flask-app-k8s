@@ -10,3 +10,6 @@ Dockerfile
 
 # Ignore sensitive files
 .env
+
+# Ignore venv folder
+venv/
