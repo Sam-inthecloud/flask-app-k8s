@@ -1,0 +1,10 @@
+[
+ {
+  "op": "add",
+  "path": "/definitions/ImageMenuOption/properties/AvailabilityStatus/enum",
+  "value": [
+   "DISABLED",
+   "ENABLED"
+  ]
+ }
+]

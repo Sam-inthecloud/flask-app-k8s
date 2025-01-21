@@ -2,7 +2,6 @@ import unittest
 import sys
 sys.path.append('.')  # Add the current directory to the system path
 from flask_app.app import app  # Import the Flask app from the folder
-
 class FlaskAppTests(unittest.TestCase):
     # Set up the test client
     def setUp(self):
